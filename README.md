@@ -1,4 +1,4 @@
-# [![Ines Header](https://github.com/ines-akrap/ines-akrap/blob/main/assets/ines-codes-banner.PNG)](https://inesakrap.com)
+# [![Ines Header](https://github.com/ines-akrap/ines-akrap/blob/main/assets/ines-codes-banner.jpg)](https://inesakrap.com)
 
 
 ### Hi there 👋
